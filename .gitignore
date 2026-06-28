@@ -1,0 +1,30 @@
+# Model weights
+*.pt
+*.h5
+*.pkl
+
+# Video files
+*.mp4
+*.avi
+
+# Large data folders
+HAJJv2.Dataset/
+extracted_clips_clean/
+embeddings/
+stampede-1/
+CSRNet-pytorch/
+model_data/
+
+# Mac files
+.DS_Store
+__MACOSX/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
+myenv/

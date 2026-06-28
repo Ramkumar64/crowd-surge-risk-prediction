@@ -1,0 +1,13 @@
+{
+  "video_dir": "/Users/ithikash/Downloads/Crowd-Analysis-main/HAJJv2.Dataset/Training/Videos",
+  "clean_segments_file": "clean_segments.json",
+  "scales_file": "video_scaling_factors.json",
+  "output_window_index": "window_index.csv",
+  "window_frames": 32,
+  "stride": 16,
+  "min_effective_frames": 8,
+  "pad_short": true,
+  "balance_mode": "none",
+  "class_list": ["Normal","Light_Panic","Fight","Violent_Group","Stampede"],
+  "seed": 42
+}

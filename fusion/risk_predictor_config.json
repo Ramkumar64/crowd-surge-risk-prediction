@@ -1,0 +1,4 @@
+{
+  "model_path": "risk_predictor_v2_deltas.pt",
+  "threshold": 0.52
+}

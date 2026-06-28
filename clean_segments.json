@@ -1,0 +1,335 @@
+[
+  {
+    "video_real": "Charlie Kirk shooting_ Video captures panic at Utah campus as gunshot heard.mp4",
+    "label": "Normal",
+    "start_frame": 77,
+    "end_frame": 273,
+    "orig_start": 77,
+    "orig_end": 273,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "Charlie Kirk shooting_ Video captures panic at Utah campus as gunshot heard.mp4",
+    "label": "Light_Panic",
+    "start_frame": 274,
+    "end_frame": 327,
+    "orig_start": 274,
+    "orig_end": 327,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "Charlie Kirk shooting_ Video captures panic at Utah campus as gunshot heard.mp4",
+    "label": "Light_Panic",
+    "start_frame": 328,
+    "end_frame": 662,
+    "orig_start": 328,
+    "orig_end": 662,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "Charlie Kirk shooting_ Video captures panic at Utah campus as gunshot heard.mp4",
+    "label": "Light_Panic",
+    "start_frame": 1319,
+    "end_frame": 1514,
+    "orig_start": 1319,
+    "orig_end": 1514,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "Charlie Kirk shooting_ Video captures panic at Utah campus as gunshot heard.mp4",
+    "label": "Violent_Group",
+    "start_frame": 663,
+    "end_frame": 1047,
+    "orig_start": 663,
+    "orig_end": 1047,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "Charlie Kirk shooting_ Video captures panic at Utah campus as gunshot heard.mp4",
+    "label": "Violent_Group",
+    "start_frame": 1048,
+    "end_frame": 1318,
+    "orig_start": 1048,
+    "orig_end": 1318,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "2.mp4",
+    "label": "Normal",
+    "start_frame": 1,
+    "end_frame": 260,
+    "orig_start": 1,
+    "orig_end": 260,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "2.mp4",
+    "label": "Normal",
+    "start_frame": 261,
+    "end_frame": 525,
+    "orig_start": 261,
+    "orig_end": 525,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "2.mp4",
+    "label": "Normal",
+    "start_frame": 526,
+    "end_frame": 622,
+    "orig_start": 526,
+    "orig_end": 622,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "3.mp4",
+    "label": "Normal",
+    "start_frame": 1,
+    "end_frame": 211,
+    "orig_start": 1,
+    "orig_end": 211,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "3.mp4",
+    "label": "Light_Panic",
+    "start_frame": 212,
+    "end_frame": 411,
+    "orig_start": 212,
+    "orig_end": 411,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "3.mp4",
+    "label": "Light_Panic",
+    "start_frame": 412,
+    "end_frame": 622,
+    "orig_start": 412,
+    "orig_end": 622,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "5.mp4",
+    "label": "Normal",
+    "start_frame": 1,
+    "end_frame": 622,
+    "orig_start": 1,
+    "orig_end": 622,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "7.mp4",
+    "label": "Normal",
+    "start_frame": 1,
+    "end_frame": 366,
+    "orig_start": 1,
+    "orig_end": 366,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "7.mp4",
+    "label": "Normal",
+    "start_frame": 367,
+    "end_frame": 622,
+    "orig_start": 367,
+    "orig_end": 622,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "8.mp4",
+    "label": "Normal",
+    "start_frame": 1,
+    "end_frame": 366,
+    "orig_start": 1,
+    "orig_end": 366,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "8.mp4",
+    "label": "Normal",
+    "start_frame": 367,
+    "end_frame": 622,
+    "orig_start": 367,
+    "orig_end": 622,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ssvid.net---England-fans-fight-Scotland-fans-England-vs-Scotland-brawl_v720P.mp4",
+    "label": "Normal",
+    "start_frame": 1,
+    "end_frame": 59,
+    "orig_start": 1,
+    "orig_end": 59,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ssvid.net---England-fans-fight-Scotland-fans-England-vs-Scotland-brawl_v720P.mp4",
+    "label": "Normal",
+    "start_frame": 541,
+    "end_frame": 746,
+    "orig_start": 541,
+    "orig_end": 746,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ssvid.net---England-fans-fight-Scotland-fans-England-vs-Scotland-brawl_v720P.mp4",
+    "label": "Fight",
+    "start_frame": 60,
+    "end_frame": 120,
+    "orig_start": 60,
+    "orig_end": 120,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ssvid.net---England-fans-fight-Scotland-fans-England-vs-Scotland-brawl_v720P.mp4",
+    "label": "Fight",
+    "start_frame": 121,
+    "end_frame": 420,
+    "orig_start": 121,
+    "orig_end": 420,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ssvid.net---England-fans-fight-Scotland-fans-England-vs-Scotland-brawl_v720P.mp4",
+    "label": "Violent_Group",
+    "start_frame": 421,
+    "end_frame": 540,
+    "orig_start": 421,
+    "orig_end": 540,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ssvid.net---England-fans-fight-Scotland-fans-England-vs-Scotland-brawl_v720P.mp4",
+    "label": "Light_Panic",
+    "start_frame": 60,
+    "end_frame": 120,
+    "orig_start": 60,
+    "orig_end": 120,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "newyork.mp4",
+    "label": "Normal",
+    "start_frame": 97,
+    "end_frame": 115,
+    "orig_start": 97,
+    "orig_end": 115,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "newyork.mp4",
+    "label": "Violent_Group",
+    "start_frame": 116,
+    "end_frame": 236,
+    "orig_start": 116,
+    "orig_end": 236,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "newyork.mp4",
+    "label": "Violent_Group",
+    "start_frame": 237,
+    "end_frame": 390,
+    "orig_start": 237,
+    "orig_end": 390,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ssvid.net--Video-Stampede-storms-entrance-of-Astroworld-festival_v720P.mp4",
+    "label": "Light_Panic",
+    "start_frame": 1,
+    "end_frame": 50,
+    "orig_start": 1,
+    "orig_end": 50,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ssvid.net--Video-Stampede-storms-entrance-of-Astroworld-festival_v720P.mp4",
+    "label": "Violent_Group",
+    "start_frame": 51,
+    "end_frame": 108,
+    "orig_start": 51,
+    "orig_end": 108,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ssvid.net--Video-Stampede-storms-entrance-of-Astroworld-festival_v720P.mp4",
+    "label": "Violent_Group",
+    "start_frame": 109,
+    "end_frame": 161,
+    "orig_start": 109,
+    "orig_end": 161,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ssvid.net--Video-Stampede-storms-entrance-of-Astroworld-festival_v720P.mp4",
+    "label": "Stampede",
+    "start_frame": 162,
+    "end_frame": 267,
+    "orig_start": 162,
+    "orig_end": 267,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ssvid.net--Video-Stampede-storms-entrance-of-Astroworld-festival_v720P.mp4",
+    "label": "Stampede",
+    "start_frame": 268,
+    "end_frame": 360,
+    "orig_start": 268,
+    "orig_end": 360,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ezyZip.mp4",
+    "label": "Normal",
+    "start_frame": 1,
+    "end_frame": 112,
+    "orig_start": 1,
+    "orig_end": 112,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ezyZip.mp4",
+    "label": "Normal",
+    "start_frame": 336,
+    "end_frame": 433,
+    "orig_start": 336,
+    "orig_end": 433,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ezyZip.mp4",
+    "label": "Light_Panic",
+    "start_frame": 113,
+    "end_frame": 154,
+    "orig_start": 113,
+    "orig_end": 154,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ezyZip.mp4",
+    "label": "Light_Panic",
+    "start_frame": 434,
+    "end_frame": 525,
+    "orig_start": 434,
+    "orig_end": 525,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ezyZip.mp4",
+    "label": "Stampede",
+    "start_frame": 155,
+    "end_frame": 240,
+    "orig_start": 155,
+    "orig_end": 240,
+    "scale_used": 1.0
+  },
+  {
+    "video_real": "ezyZip.mp4",
+    "label": "Violent_Group",
+    "start_frame": 241,
+    "end_frame": 335,
+    "orig_start": 241,
+    "orig_end": 335,
+    "scale_used": 1.0
+  }
+]

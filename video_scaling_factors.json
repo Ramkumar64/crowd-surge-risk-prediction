@@ -1,0 +1,62 @@
+{
+  "Charlie Kirk shooting_ Video captures panic at Utah campus as gunshot heard.mp4": {
+    "real_frames": 1928,
+    "max_annot_end": 1514,
+    "scale_factor": 1.0,
+    "needs_scaling": false
+  },
+  "2.mp4": {
+    "real_frames": 700,
+    "max_annot_end": 622,
+    "scale_factor": 1.0,
+    "needs_scaling": false
+  },
+  "3.mp4": {
+    "real_frames": 700,
+    "max_annot_end": 622,
+    "scale_factor": 1.0,
+    "needs_scaling": false
+  },
+  "5.mp4": {
+    "real_frames": 700,
+    "max_annot_end": 622,
+    "scale_factor": 1.0,
+    "needs_scaling": false
+  },
+  "7.mp4": {
+    "real_frames": 700,
+    "max_annot_end": 622,
+    "scale_factor": 1.0,
+    "needs_scaling": false
+  },
+  "8.mp4": {
+    "real_frames": 700,
+    "max_annot_end": 622,
+    "scale_factor": 1.0,
+    "needs_scaling": false
+  },
+  "ssvid.net---England-fans-fight-Scotland-fans-England-vs-Scotland-brawl_v720P.mp4": {
+    "real_frames": 932,
+    "max_annot_end": 746,
+    "scale_factor": 1.0,
+    "needs_scaling": false
+  },
+  "newyork.mp4": {
+    "real_frames": 487,
+    "max_annot_end": 390,
+    "scale_factor": 1.0,
+    "needs_scaling": false
+  },
+  "ssvid.net--Video-Stampede-storms-entrance-of-Astroworld-festival_v720P.mp4": {
+    "real_frames": 449,
+    "max_annot_end": 360,
+    "scale_factor": 1.0,
+    "needs_scaling": false
+  },
+  "ezyZip.mp4": {
+    "real_frames": 655,
+    "max_annot_end": 525,
+    "scale_factor": 1.0,
+    "needs_scaling": false
+  }
+}
