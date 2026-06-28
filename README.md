@@ -163,14 +163,6 @@ assets/                         - System diagrams and sample outputs
 
 ---
 
-## Publication
-
-Integrated Spatio-Temporal Deep Learning Framework for
-Crowd Behaviour Analysis
-- IEEE Access, 2025
-- Springer, 2025
-
----
 
 ## Author
 
